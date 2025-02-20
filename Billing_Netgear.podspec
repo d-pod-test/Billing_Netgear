@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Billing_Netgear'
-s.version = '1.25.0.0'
+s.version = '1.25.0.99'
   s.summary          = 'Test'
   s.description      = 'A test cocoapod'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
